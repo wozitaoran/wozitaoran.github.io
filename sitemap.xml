@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wozitaoran.github.io/categories/</loc>
+    <lastmod>2020-07-12T20:49:29+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wozitaoran.github.io/posts/</loc>
     <lastmod>2020-07-12T20:49:29+08:00</lastmod>
   </url>
@@ -23,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://wozitaoran.github.io/categories/%E6%8A%95%E8%B5%84/</loc>
+    <lastmod>2020-07-12T20:49:29+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wozitaoran.github.io/posts/%E6%B8%AF%E7%BE%8E%E8%82%A1%E5%88%B8%E5%95%86/</loc>
     <lastmod>2020-07-12T20:49:29+08:00</lastmod>
   </url>
@@ -35,11 +45,6 @@
   <url>
     <loc>https://wozitaoran.github.io/posts/first-post/</loc>
     <lastmod>2020-07-12T20:38:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/categories/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url>
   
   <url>
@@ -90,26 +95,6 @@
   <url>
     <loc>https://wozitaoran.github.io/tags/todo/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/posts/chapter-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/categories/story/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/posts/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/tags/scene/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url>
   
 </urlset>
