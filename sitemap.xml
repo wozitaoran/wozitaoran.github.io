@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wozitaoran.github.io/categories/</loc>
+    <lastmod>2020-07-12T21:18:45+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wozitaoran.github.io/posts/</loc>
+    <lastmod>2020-07-12T21:18:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wozitaoran.github.io/tags/</loc>
     <lastmod>2020-07-12T21:18:45+08:00</lastmod>
   </url>
   
@@ -13,93 +23,23 @@
   </url>
   
   <url>
+    <loc>https://wozitaoran.github.io/tags/%E6%8A%95%E8%B5%84/</loc>
+    <lastmod>2020-07-12T21:18:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wozitaoran.github.io/categories/%E6%8A%95%E8%B5%84/</loc>
+    <lastmod>2020-07-12T21:18:45+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wozitaoran.github.io/posts/%E6%B8%AF%E8%82%A1a%E8%82%A1%E5%92%8C%E7%BE%8E%E8%82%A1%E6%B4%BE%E6%81%AF%E9%82%A3%E7%82%B9%E4%BA%8B/</loc>
     <lastmod>2020-07-12T21:18:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wozitaoran.github.io/categories/</loc>
-    <lastmod>2020-07-12T20:49:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/tags/</loc>
-    <lastmod>2020-07-12T20:49:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/tags/%E6%8A%95%E8%B5%84/</loc>
-    <lastmod>2020-07-12T20:49:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/categories/%E6%8A%95%E8%B5%84/</loc>
-    <lastmod>2020-07-12T20:49:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/posts/%E6%B8%AF%E7%BE%8E%E8%82%A1%E5%88%B8%E5%95%86/</loc>
-    <lastmod>2020-07-12T20:49:29+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wozitaoran.github.io/tags/%E8%82%A1%E7%A5%A8/</loc>
-    <lastmod>2020-07-12T20:49:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/posts/first-post/</loc>
-    <lastmod>2020-07-12T20:38:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/tags/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/categories/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/tags/text/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/posts/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/tags/typography/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/posts/post-5/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/posts/post-1/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/tags/primer/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/categories/todo/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/tags/todo/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+    <lastmod>2020-07-12T21:18:45+08:00</lastmod>
   </url>
   
 </urlset>
