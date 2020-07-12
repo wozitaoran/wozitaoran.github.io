@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wozitaoran.github.io/posts/first-post/</loc>
+    <lastmod>2020-07-12T20:38:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wozitaoran.github.io/posts/</loc>
+    <lastmod>2020-07-12T20:38:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wozitaoran.github.io/</loc>
+    <lastmod>2020-07-12T20:38:18+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wozitaoran.github.io/categories/</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url>
@@ -18,22 +33,12 @@
   </url>
   
   <url>
-    <loc>https://wozitaoran.github.io/posts/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wozitaoran.github.io/tags/</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://wozitaoran.github.io/tags/text/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wozitaoran.github.io/</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url>
   

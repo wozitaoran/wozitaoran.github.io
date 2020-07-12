@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Thu, 14 Nov 2019 11:25:05 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 20:38:18 +0800</lastBuildDate>
     
 	<atom:link href="https://wozitaoran.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Post</title>
+      <link>https://wozitaoran.github.io/posts/first-post/</link>
+      <pubDate>Sun, 12 Jul 2020 20:38:18 +0800</pubDate>
+      
+      <guid>https://wozitaoran.github.io/posts/first-post/</guid>
+      <description>这是放到github上的第一篇，测试成功！
+111
+222</description>
+    </item>
     
     <item>
       <title>中文文本测试</title>
