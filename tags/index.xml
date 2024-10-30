@@ -6,10 +6,15 @@
     <description>Recent content in Tags on 技术与投资</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 14:03:29 +0800</lastBuildDate>
-    
-	<atom:link href="https://wozitaoran.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 15 Sep 2020 14:03:29 +0800</lastBuildDate><atom:link href="https://wozitaoran.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>股票</title>
+      <link>https://wozitaoran.github.io/tags/%E8%82%A1%E7%A5%A8/</link>
+      <pubDate>Tue, 15 Sep 2020 14:03:29 +0800</pubDate>
+      
+      <guid>https://wozitaoran.github.io/tags/%E8%82%A1%E7%A5%A8/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>投资</title>
@@ -17,15 +22,6 @@
       <pubDate>Tue, 15 Sep 2020 14:03:29 +0800</pubDate>
       
       <guid>https://wozitaoran.github.io/tags/%E6%8A%95%E8%B5%84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>股票</title>
-      <link>https://wozitaoran.github.io/tags/%E8%82%A1%E7%A5%A8/</link>
-      <pubDate>Tue, 15 Sep 2020 14:03:29 +0800</pubDate>
-      
-      <guid>https://wozitaoran.github.io/tags/%E8%82%A1%E7%A5%A8/</guid>
       <description></description>
     </item>
     
